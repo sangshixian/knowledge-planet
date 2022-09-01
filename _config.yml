@@ -5,9 +5,9 @@
 # Site
 title: Hush's website building.
 subtitle: '桑仕贤,桑仕贤的个人博客'
-description: '个人博客-桑仕贤'
+description: '桑仕贤.个人博客,知识星球'
 keywords: 桑仕贤,知识星球
-author: 桑仕贤 Hush
+author: Hush
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: ayer
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
